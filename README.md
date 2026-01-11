@@ -10,4 +10,3 @@ This is a beginner-friendly Python program that collects user details such as na
 1. Install Python from https://www.python.org/
 2. Clone this repository
 3. Run the program using:
-# personal-introduction-project
